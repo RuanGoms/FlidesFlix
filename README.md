@@ -66,7 +66,7 @@ $ node .\index.js
         "year": 1980
       }
   
-  PUT FlidesFlix - Adiciona Filmes:
+  PUT FlidesFlix - Atualiza Filmes:
     http://localhost:3000/api/films/2
     Body JSON:
       {

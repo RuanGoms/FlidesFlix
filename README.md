@@ -46,7 +46,7 @@ $ node .\index.js
   
 # Conecte-se com o mongodb pelo MongoDB Compass com o seguinte URL: "mongodb://localhost/"
 
-# Exemplo de Requisições:
+# Exemplo de Requisições com o Insomnia:
   GET FlidesFlix - Lista de Filmes:
     http://localhost:3000/api/films/
   
